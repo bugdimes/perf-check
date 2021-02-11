@@ -28,5 +28,5 @@ func main() {
 
 	elapsed := time.Since(start)
 	log.Printf("%s", elapsed)
-	// 7ms
+	// 6ms
 }

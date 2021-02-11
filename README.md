@@ -9,5 +9,5 @@
 ### Results
 
 * Go: 7ms
-* Python: 22ms
+* Python: 10ms
 * Node: 16ms
